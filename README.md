@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wasif
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning font-end web development 
+- 🌱 I’m currently learning font-end web development with ReactJS
 
 
 <!---
