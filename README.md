@@ -16,7 +16,7 @@ Let's Connect: Whether you're a fellow developer, a tech enthusiast, or someone 
 
 ###
 
-<p align="left">- 🌱 I’m currently learning full stack web development <br>- 📫 How to reach me (wasif19015@gmail.com)</p>
+<p align="left">- 🌱 I’m currently learning full stack web development <br>- 📫 How to reach me (wasif19010@gmail.com)</p>
 
 ###
 
