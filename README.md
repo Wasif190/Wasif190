@@ -6,17 +6,12 @@
 
 <h1 align="center">Hi 👋, I'm Wasif</h1>
 <p>
-Welcome to my digital space! 👋 I'm Wasif, a fervent Full Stack Web Developer with a penchant for creating immersive online experiences. My journey in the world of web development has been a thrilling exploration of the MERN stack - where MongoDB, Express.js, React.js, and Node.js converge to bring ideas to life.
-Let's Connect: Whether you're a fellow developer, a tech enthusiast, or someone with a great idea seeking a tech collaborator, I'm always open to connecting and exploring new opportunities. Let's build something incredible together!
+Welcome to my digital space! 👋 I'm Wasif, a fervent tech guy !
 </p>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">- 🌱 I’m currently learning full stack web development <br>- 📫 How to reach me (wasif19010@gmail.com)</p>
+📫 How to reach me (wasif19010@gmail.com)</p>
 
 ###
 
