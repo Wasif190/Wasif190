@@ -8,6 +8,6 @@ Welcome to my digital space! 👋 I'm Wasif, a tech enthusiast who loves explori
 
 ## 📧 Contact Me
 
-- **Gmail:** [your.email@gmail.com](mailto:your.email@gmail.com)
+- **Gmail:** [your.email@gmail.com](wasif19010@gmail.com)
 
 
